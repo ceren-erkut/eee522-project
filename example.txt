@@ -1,0 +1,432 @@
+
+******** Subject 1 has 1 training files. ********
+
+Subject: 1 | training: 1 | pickle total number of data point: 162977 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 8242 rows.
+Label: set2_SL iso at 0deg_rep1 has 8669 rows.
+Label: set1_60deg adductor squeeze_rep6 has 10944 rows.
+Label: set1_SL elevated glute bridge_rep10 has 7132 rows.
+Label: set2_SL elevated glute bridge_rep10 has 6825 rows.
+Label: set1_SL bent knee calf raise_rep15 has 9591 rows.
+Label: set2_SL bent knee calf raise_rep15 has 11620 rows.
+
+******** Subject 2 has 1 training files. ********
+
+Subject: 2 | training: 1 | pickle total number of data point: 185021 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 13285 rows.
+Label: set2_SL iso at 0deg_rep1 has 11192 rows.
+Label: set1_SL elevated glute bridge_rep10 has 17391 rows.
+Label: set1_60deg adductor squeeze_rep6 has 11594 rows.
+Label: set1_SL bent knee calf raise_rep15 has 18922 rows.
+
+******** Subject 3 has 1 training files. ********
+
+Subject: 3 | training: 1 | pickle total number of data point: 209465 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 8759 rows.
+Label: set2_SL iso at 0deg_rep1 has 10618 rows.
+Label: set1_60deg adductor squeeze_rep6 has 14022 rows.
+Label: set1_SL elevated glute bridge_rep10 has 11860 rows.
+Label: set2_SL elevated glute bridge_rep10 has 12215 rows.
+Label: set1_SL bent knee calf raise_rep15 has 13036 rows.
+Label: set2_SL bent knee calf raise_rep15 has 11027 rows.
+
+******** Subject 4 has 1 training files. ********
+
+Subject: 4 | training: 1 | pickle total number of data point: 172357 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 18949 rows.
+Label: set2_SL iso at 0deg_rep1 has 18169 rows.
+Label: set1_60deg adductor squeeze_rep6 has 15921 rows.
+Label: set1_SL elevated glute bridge_rep10 has 13397 rows.
+Label: set2_SL elevated glute bridge_rep10 has 12389 rows.
+Label: set1_SL bent knee calf raise_rep15 has 8855 rows.
+Label: set2_SL bent knee calf raise_rep15 has 9543 rows.
+
+******** Subject 5 has 1 training files. ********
+
+Subject: 5 | training: 1 | pickle total number of data point: 909592 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 16380 rows.
+Label: set1_60deg adductor squeeze_rep6 has 7659 rows.
+Label: set1_SL elevated glute bridge_rep10 has 25848 rows.
+Label: set1_SL bent knee calf raise_rep15 has 14997 rows.
+Label: set1_KT hip extn left_rep1 has 6488 rows.
+Label: set2_KT hip extn right_rep1 has 5851 rows.
+
+******** Subject 6 has 1 training files. ********
+
+Subject: 6 | training: 1 | pickle total number of data point: 216496 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 4000 rows.
+Label: set2_SL iso at 0deg_rep1 has 8893 rows.
+Label: set3_SL iso at 0deg_rep1 has 12767 rows.
+Label: set1_SL elevated glute bridge_rep10 has 27032 rows.
+Label: set1_60deg adductor squeeze_rep6 has 12151 rows.
+Label: set1_SL bent knee calf raise_rep15 has 14880 rows.
+
+******** Subject 7 has 1 training files. ********
+
+Subject: 7 | training: 1 | pickle total number of data point: 425585 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 14878 rows.
+Label: set2_SL iso at 0deg_rep1 has 12687 rows.
+Label: set1_SL elevated glute bridge_rep10 has 27855 rows.
+Label: set1_60deg adductor squeeze_rep6 has 14023 rows.
+Label: set1_SL bent knee calf raise_rep15 has 24134 rows.
+Label: set1_KT hip extn left_rep1 has 5629 rows.
+Label: set1_KT hip extn right_rep1 has 4111 rows.
+
+******** Subject 8 has 1 training files. ********
+
+Subject: 8 | training: 1 | pickle total number of data point: 911188 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 16083 rows.
+Label: set2_SL iso at 0deg_rep1 has 12402 rows.
+Label: set1_SL elevated glute bridge_rep10 has 22119 rows.
+Label: set1_60deg adductor squeeze_rep6 has 10436 rows.
+Label: set1_SL bent knee calf raise_rep15 has 21415 rows.
+Label: set1_KT hamstring claw right_rep1 has 7046 rows.
+Label: set1_KT hamstring claw left_rep1 has 7473 rows.
+
+******** Subject 9 has 1 training files. ********
+
+Subject: 9 | training: 1 | pickle total number of data point: 763613 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 14931 rows.
+Label: set2_SL iso at 0deg_rep1 has 12072 rows.
+Label: set1_SL elevated glute bridge_rep10 has 13264 rows.
+Label: set1_60deg adductor squeeze_rep6 has 8498 rows.
+Label: set1_SL bent knee calf raise_rep15 has 10245 rows.
+Label: set1_KT hip extn left_rep1 has 7588 rows.
+Label: set1_KT hip extn right_rep1 has 5419 rows.
+Label: set2_KT hip extn left_rep1 has 6287 rows.
+Label: set2_KT hip extn right_rep1 has 6070 rows.
+Label: set2_KT hip flex right_rep1 has 2816 rows.
+Label: set1_KT hip flex right_rep1 has 2672 rows.
+Label: set1_KT hip flex left_rep1 has 2385 rows.
+Label: set2_KT hip flex left_rep1 has 2672 rows.
+
+******** Subject 10 has 1 training files. ********
+
+Subject: 10 | training: 1 | pickle total number of data point: 232744 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 4903 rows.
+Label: set2_SL iso at 0deg_rep1 has 3894 rows.
+Label: set1_60deg adductor squeeze_rep6 has 25126 rows.
+Label: set1_SL elevated glute bridge_rep10 has 13934 rows.
+Label: set2_SL elevated glute bridge_rep10 has 12377 rows.
+Label: set1_SL bent knee calf raise_rep15 has 9042 rows.
+Label: set2_SL bent knee calf raise_rep15 has 10006 rows.
+
+******** Subject 11 has 1 training files. ********
+
+Subject: 11 | training: 1 | pickle total number of data point: 432567 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 26201 rows.
+Label: set1_SL elevated glute bridge_rep10 has 25242 rows.
+Label: set1_60deg adductor squeeze_rep6 has 11662 rows.
+Label: set1_SL bent knee calf raise_rep15 has 22363 rows.
+Label: set1_KT hip extn left_rep1 has 4938 rows.
+Label: set1_KT hip extn right_rep1 has 6261 rows.
+Label: set2_KT hip extn left_rep1 has 5071 rows.
+Label: set2_KT hip extn right_rep1 has 5732 rows.
+
+******** Subject 12 has 1 training files. ********
+
+Subject: 12 | training: 1 | pickle total number of data point: 1166303 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 12458 rows.
+Label: set2_SL iso at 0deg_rep1 has 10822 rows.
+Label: set1_SL elevated glute bridge_rep10 has 12521 rows.
+Label: set2_SL elevated glute bridge_rep10 has 13654 rows.
+Label: set1_60deg adductor squeeze_rep6 has 11388 rows.
+Label: set1_SL bent knee calf raise_rep15 has 17869 rows.
+Label: set1_KT hip extn left_rep1 has 4564 rows.
+Label: set1_KT hip extn right_rep1 has 6485 rows.
+Label: set2_KT hip extn right_rep1 has 5524 rows.
+Label: set2_KT hip extn left_rep1 has 5044 rows.
+Label: set1_KT hip flex right_rep1 has 3843 rows.
+Label: set1_KT hip flex left_rep1 has 4924 rows.
+Label: set2_KT hip flex right_rep1 has 5284 rows.
+Label: set2_KT hip flex left_rep1 has 4923 rows.
+Label: set1_KT hamstring claw left_rep1 has 4414 rows.
+Label: set1_KT hamstring claw right_rep1 has 4064 rows.
+Label: set3_KT soleus_rep1 has 2398 rows.
+Label: set2_KT soleus_rep1 has 2689 rows.
+Label: set4_KT soleus_rep1 has 1962 rows.
+Label: set1_KT soleus_rep1 has 4505 rows.
+Label: set5_KT soleus_rep1 has 2399 rows.
+Label: set6_KT soleus_rep1 has 2616 rows.
+Label: set7_KT soleus_rep1 has 2834 rows.
+Label: set8_KT soleus_rep1 has 2326 rows.
+Label: set9_KT soleus_rep1 has 2471 rows.
+Label: set10_KT soleus_rep1 has 3996 rows.
+
+******** Subject 13 has 1 training files. ********
+
+Subject: 13 | training: 1 | pickle total number of data point: 174582 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 15234 rows.
+Label: set2_SL iso at 0deg_rep1 has 11886 rows.
+Label: set1_60deg adductor squeeze_rep6 has 13509 rows.
+Label: set1_SL elevated glute bridge_rep10 has 16429 rows.
+Label: set1_SL bent knee calf raise_rep15 has 25714 rows.
+
+******** Subject 14 has 1 training files. ********
+
+Subject: 14 | training: 1 | pickle total number of data point: 543707 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 13295 rows.
+Label: set2_SL iso at 0deg_rep1 has 14629 rows.
+Label: set1_SL elevated glute bridge_rep10 has 14540 rows.
+Label: set1_60deg adductor squeeze_rep6 has 8670 rows.
+Label: set1_SL bent knee calf raise_rep15 has 12270 rows.
+Label: set1_KT hip extn left_rep1 has 6724 rows.
+Label: set1_KT hip extn right_rep1 has 5115 rows.
+Label: set2_KT hip extn left_rep1 has 5408 rows.
+Label: set2_KT hip extn right_rep1 has 3362 rows.
+Label: set1_KT hip flex right_rep1 has 2500 rows.
+Label: set1_KT hip flex left_rep1 has 2768 rows.
+
+******** Subject 15 has 1 training files. ********
+
+Subject: 15 | training: 1 | pickle total number of data point: 198660 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 13955 rows.
+Label: set2_SL iso at 0deg_rep1 has 12548 rows.
+Label: set1_60deg adductor squeeze_rep6 has 4998 rows.
+Label: set1_SL elevated glute bridge_rep10 has 22366 rows.
+Label: set1_SL bent knee calf raise_rep15 has 8929 rows.
+Label: set2_SL bent knee calf raise_rep15 has 9518 rows.
+
+******** Subject 16 has 2 training files. ********
+
+Subject: 16 | training: 1 | pickle total number of data point: 405836 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 27222 rows.
+Label: set2_SL iso at 0deg_rep1 has 16388 rows.
+Label: set1_60deg adductor squeeze_rep6 has 8995 rows.
+Label: set1_SL elevated glute bridge_rep10 has 19095 rows.
+Label: set2_SL elevated glute bridge_rep10 has 14327 rows.
+Label: set1_SL bent knee calf raise_rep15 has 31665 rows.
+Label: set1_KT Soleus left_rep1 has 21664 rows.
+Label: set1_KT Soleus right_rep1 has 16670 rows.
+
+Subject: 16 | training: 2 | pickle total number of data point: 255006 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 13253 rows.
+Label: set2_SL iso at 0deg_rep1 has 13685 rows.
+Label: set1_SL elevated glute bridge_rep10 has 18012 rows.
+Label: set1_60deg adductor squeeze_rep6 has 1427 rows.
+Label: set2_60deg adductor squeeze_rep6 has 1644 rows.
+Label: set1_SL bent knee calf raise_rep15 has 15320 rows.
+Label: set2_SL bent knee calf raise_rep15 has 14971 rows.
+
+******** Subject 17 has 1 training files. ********
+
+Subject: 17 | training: 1 | pickle total number of data point: 1379902 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 37163 rows.
+Label: set1_60deg adductor squeeze_rep6 has 13905 rows.
+Label: set1_SL elevated glute bridge_rep10 has 27405 rows.
+Label: set1_SL bent knee calf raise_rep15 has 25616 rows.
+Label: set1_KT hip extn left_rep1 has 6922 rows.
+Label: set1_KT hip extn right_rep1 has 6794 rows.
+
+******** Subject 18 has 1 training files. ********
+
+Subject: 18 | training: 1 | pickle total number of data point: 840279 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 14977 rows.
+Label: set2_SL iso at 0deg_rep1 has 12864 rows.
+Label: set1_SL elevated glute bridge_rep10 has 15537 rows.
+Label: set1_60deg adductor squeeze_rep6 has 9695 rows.
+Label: set1_SL bent knee calf raise_rep15 has 14978 rows.
+Label: set1_KT hip extn left_rep1 has 6067 rows.
+Label: set1_KT hip extn right_rep1 has 5233 rows.
+Label: set2_KT hip extn left_rep1 has 4551 rows.
+Label: set2_KT hip extn right_rep1 has 3868 rows.
+Label: set1_KT hip flex left_rep1 has 3268 rows.
+Label: set1_KT hip flex right_rep1 has 3408 rows.
+Label: set2_KT hip flex left_rep1 has 3616 rows.
+Label: set2_KT hip flex right_rep1 has 3687 rows.
+Label: set1_KT hamstring claw left_rep1 has 3594 rows.
+Label: set1_KT hamstring claw right_rep1 has 3477 rows.
+Label: set2_KT hamstring claw left_rep1 has 4115 rows.
+Label: set2_KT hamstring claw right_rep1 has 3651 rows.
+
+******** Subject 19 has 1 training files. ********
+
+Subject: 19 | training: 1 | pickle total number of data point: 213705 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 14825 rows.
+Label: set2_SL iso at 0deg_rep1 has 11377 rows.
+Label: set1_SL elevated glute bridge_rep10 has 29648 rows.
+Label: set1_60deg adductor squeeze_rep6 has 14480 rows.
+Label: set1_SL bent knee calf raise_rep15 has 19909 rows.
+
+******** Subject 20 has 1 training files. ********
+
+Subject: 20 | training: 1 | pickle total number of data point: 190627 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 20641 rows.
+Label: set2_SL iso at 0deg_rep1 has 16793 rows.
+Label: set1_60deg adductor squeeze_rep6 has 13294 rows.
+Label: set1_SL elevated glute bridge_rep10 has 24751 rows.
+Label: set1_SL bent knee calf raise_rep15 has 23965 rows.
+
+******** Subject 21 has 11 training files. ********
+
+Subject: 21 | training: 1 | pickle total number of data point: 192584 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 12602 rows.
+Label: set2_SL iso at 0deg_rep1 has 11746 rows.
+Label: set1_60deg adductor squeeze_rep6 has 17007 rows.
+Label: set1_SL elevated glute bridge_rep10 has 27040 rows.
+Label: set1_SL bent knee calf raise_rep15 has 25817 rows.
+
+Subject: 21 | training: 2 | pickle total number of data point: 238216 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 6481 rows.
+Label: set2_SL iso at 0deg_rep1 has 7673 rows.
+Label: set1_SL elevated glute bridge_rep10 has 8046 rows.
+Label: set2_SL elevated glute bridge_rep10 has 8865 rows.
+Label: set1_60deg adductor squeeze_rep6 has 1528 rows.
+Label: set2_60deg adductor squeeze_rep6 has 1691 rows.
+Label: set1_SL bent knee calf raise_rep15 has 12630 rows.
+Label: set2_SL bent knee calf raise_rep15 has 12664 rows.
+
+Subject: 21 | training: 3 | pickle total number of data point: 327622 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 4221 rows.
+Label: set2_SL iso at 0deg_rep1 has 4486 rows.
+Label: set1_SL elevated glute bridge_rep10 has 12495 rows.
+Label: set1_60deg adductor squeeze_rep6 has 21414 rows.
+Label: set1_SL bent knee calf raise_rep15 has 24052 rows.
+
+Subject: 21 | training: 4 | pickle total number of data point: 287916 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 9258 rows.
+Label: set1_SL elevated glute bridge_rep10 has 35584 rows.
+Label: set1_60deg adductor squeeze_rep6 has 25276 rows.
+Label: set1_SL bent knee calf raise_rep15 has 16097 rows.
+
+Subject: 21 | training: 5 | pickle total number of data point: 334888 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_Left 15kg at 90deg_rep1 has 15541 rows.
+Label: set1_Right 15kg at 90deg_rep1 has 13458 rows.
+Label: set2_Left 15kg at 90deg_rep1 has 13531 rows.
+Label: set2_Right 15kg at 90deg_rep1 has 13717 rows.
+Label: set3_Left 15kg at 90deg_rep1 has 11254 rows.
+Label: set3_Right 15kg at 90deg_rep1 has 12925 rows.
+Label: set4_Left 15kg at 90deg_rep1 has 13094 rows.
+Label: set5_Right 15kg at 90deg_rep1 has 13691 rows.
+Label: set5_Left 15kg at 90deg_rep1 has 12769 rows.
+
+Subject: 21 | training: 6 | pickle total number of data point: 178997 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 3845 rows.
+Label: set2_SL iso at 0deg_rep1 has 3200 rows.
+Label: set1_SL elevated glute bridge_rep10 has 8586 rows.
+Label: set1_60deg adductor squeeze_rep6 has 17057 rows.
+Label: set1_SL bent knee calf raise_rep15 has 27192 rows.
+
+Subject: 21 | training: 7 | pickle total number of data point: 204304 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 6659 rows.
+Label: set1_SL elevated glute bridge_rep10 has 9639 rows.
+Label: set1_60deg adductor squeeze_rep6 has 16570 rows.
+Label: set1_SL bent knee calf raise_rep15 has 25310 rows.
+
+Subject: 21 | training: 8 | pickle total number of data point: 248111 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 9258 rows.
+Label: set1_SL elevated glute bridge_rep10 has 10915 rows.
+Label: set1_60deg adductor squeeze_rep6 has 19208 rows.
+Label: set1_SL bent knee calf raise_rep15 has 20169 rows.
+
+Subject: 21 | training: 9 | pickle total number of data point: 204313 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 7856 rows.
+Label: set1_SL elevated glute bridge_rep10 has 9867 rows.
+Label: set1_60deg adductor squeeze_rep6 has 4037 rows.
+Label: set1_SL bent knee calf raise_rep15 has 18072 rows.
+
+Subject: 21 | training: 10 | pickle total number of data point: 180931 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 8176 rows.
+Label: set1_SL elevated glute bridge_rep10 has 25286 rows.
+Label: set1_60deg adductor squeeze_rep6 has 8648 rows.
+Label: set1_SL bent knee calf raise_rep15 has 22112 rows.
+
+Subject: 21 | training: 11 | pickle total number of data point: 152042 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 5817 rows.
+Label: set1_SL elevated glute bridge_rep10 has 7636 rows.
+Label: set1_60deg adductor squeeze_rep6 has 14989 rows.
+Label: set1_SL bent knee calf raise_rep15 has 15656 rows.
+
+******** Subject 22 has 1 training files. ********
+
+Subject: 22 | training: 1 | pickle total number of data point: 1164119 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 37183 rows.
+Label: set1_60deg adductor squeeze_rep6 has 11506 rows.
+Label: set1_SL elevated glute bridge_rep10 has 21100 rows.
+Label: set1_SL bent knee calf raise_rep15 has 28089 rows.
+
+******** Subject 23 has 2 training files. ********
+
+Subject: 23 | training: 1 | pickle total number of data point: 254028 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 20870 rows.
+Label: set2_SL iso at 0deg_rep1 has 18124 rows.
+Label: set1_60deg adductor squeeze_rep6 has 19882 rows.
+Label: set1_SL elevated glute bridge_rep10 has 22518 rows.
+Label: set1_SL bent knee calf raise_rep15 has 18234 rows.
+
+Subject: 23 | training: 2 | pickle total number of data point: 255449 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 17862 rows.
+Label: set2_SL iso at 0deg_rep1 has 16407 rows.
+Label: set1_SL elevated glute bridge_rep10 has 9814 rows.
+Label: set2_SL elevated glute bridge_rep10 has 9368 rows.
+Label: set1_60deg adductor squeeze_rep6 has 5472 rows.
+Label: set1_SL bent knee calf raise_rep15 has 5532 rows.
+Label: set2_SL bent knee calf raise_rep15 has 5155 rows.
+
+******** Subject 24 has 1 training files. ********
+
+Subject: 24 | training: 1 | pickle total number of data point: 934123 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 14109 rows.
+Label: set2_SL iso at 0deg_rep1 has 13079 rows.
+Label: set1_SL elevated glute bridge_rep10 has 20688 rows.
+Label: set1_60deg adductor squeeze_rep6 has 10463 rows.
+Label: set1_SL bent knee calf raise_rep15 has 21243 rows.
+Label: set1_KT soleus_rep1 has 5726 rows.
+Label: set2_KT soleus_rep1 has 3849 rows.
+Label: set3_KT soleus_rep1 has 4224 rows.
+Label: set4_KT soleus_rep1 has 4130 rows.
+
+******** Subject 25 has 1 training files. ********
+
+Subject: 25 | training: 1 | pickle total number of data point: 293046 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 15997 rows.
+Label: set2_SL iso at 0deg_rep1 has 12762 rows.
+Label: set1_SL elevated glute bridge_rep10 has 23368 rows.
+Label: set1_60deg adductor squeeze_rep6 has 12403 rows.
+Label: set1_SL bent knee calf raise_rep15 has 19773 rows.
+
+******** Subject 26 has 1 training files. ********
+
+Subject: 26 | training: 1 | pickle total number of data point: 931183 | pickle number of muscles: 8
+Muscles: Adductor Longus Left, Adductor Longus Right, Biceps Femoris Left, Biceps Femoris Right, Calves Inner Left, Calves Inner Right, Semitendinosus Left, Semitendinosus Right
+Label: set1_SL iso at 0deg_rep1 has 30849 rows.
+Label: set1_60deg adductor squeeze_rep6 has 4127 rows.
+Label: set1_SL elevated glute bridge_rep10 has 22613 rows.
+Label: set1_SL bent knee calf raise_rep15 has 20120 rows.

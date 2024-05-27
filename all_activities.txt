@@ -1,0 +1,49 @@
+
+******** Total number of activities (with occurences): 266 ********
+
+******** Number of unique activities: 42 ********
+
+******** Occurences of activities: ********
+ set10_KT soleus_rep1                    1
+set1_60deg adductor squeeze_rep6       37
+set1_KT Soleus left_rep1                1
+set1_KT Soleus right_rep1               1
+set1_KT hamstring claw left_rep1        3
+set1_KT hamstring claw right_rep1       3
+set1_KT hip extn left_rep1              8
+set1_KT hip extn right_rep1             7
+set1_KT hip flex left_rep1              4
+set1_KT hip flex right_rep1             4
+set1_KT soleus_rep1                     2
+set1_Left 15kg at 90deg_rep1            1
+set1_Right 15kg at 90deg_rep1           1
+set1_SL bent knee calf raise_rep15     37
+set1_SL elevated glute bridge_rep10    37
+set1_SL iso at 0deg_rep1               37
+set2_60deg adductor squeeze_rep6        2
+set2_KT hamstring claw left_rep1        1
+set2_KT hamstring claw right_rep1       1
+set2_KT hip extn left_rep1              5
+set2_KT hip extn right_rep1             6
+set2_KT hip flex left_rep1              3
+set2_KT hip flex right_rep1             3
+set2_KT soleus_rep1                     2
+set2_Left 15kg at 90deg_rep1            1
+set2_Right 15kg at 90deg_rep1           1
+set2_SL bent knee calf raise_rep15      8
+set2_SL elevated glute bridge_rep10     8
+set2_SL iso at 0deg_rep1               26
+set3_KT soleus_rep1                     2
+set3_Left 15kg at 90deg_rep1            1
+set3_Right 15kg at 90deg_rep1           1
+set3_SL iso at 0deg_rep1                1
+set4_KT soleus_rep1                     2
+set4_Left 15kg at 90deg_rep1            1
+set5_KT soleus_rep1                     1
+set5_Left 15kg at 90deg_rep1            1
+set5_Right 15kg at 90deg_rep1           1
+set6_KT soleus_rep1                     1
+set7_KT soleus_rep1                     1
+set8_KT soleus_rep1                     1
+set9_KT soleus_rep1                     1
+Name: count, dtype: int64
